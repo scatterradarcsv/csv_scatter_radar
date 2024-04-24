@@ -18,7 +18,7 @@ Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli
 2.23,1.93,2.18,28.76,73.82,1.34,22.69,2.82,41.01,0.3,3.22,1.68,4.9,56.25,Zeki Yavru,zeki-yavru,Yılport Samsunspor,
 1.33,1.39,1.87,43.83,84.29,0.53,33.33,3.84,55.38,0.32,2.24,2.51,4.75,56.69,Kaan Ayhan,kaan-ayhan,Galatasaray,
 1.81,1.1,1.75,34.04,84.14,0.35,38.89,1.35,43.55,0.4,3.76,1.45,5.21,61.54,Jonas Svensson,jonas-svensson,Beşiktaş,
-1.85,1.14,3.57,48.79,86.83,0.22,62.5,2.6,44.36,0.26,3.26,2.51,5.77,65.83,Necip Uysal,necip-uysal,Beşiktaş,
+1.85,1.14,3.57,48.74,86.82,0.22,62.5,2.6,44.36,0.26,3.26,2.51,5.77,65.5,Necip Uysal,necip-uysal,Beşiktaş,
 2.04,1.08,1.21,27.75,87.2,0.25,50.0,0.64,50.0,1.4,4.84,0.51,5.35,58.74,Bright Osayi-Samuel,bright-osayi-samuel,Fenerbahçe,
 1.68,1.02,5.05,33.91,84.43,0.06,100.0,3.97,55.46,0.18,1.92,1.62,3.55,60.2,Samba Camara,samba-camara,Sivasspor,
 2.32,1.25,1.98,34.79,81.38,0.82,35.42,1.83,50.0,0.68,4.1,0.77,4.87,56.11,Bünyamin Balcı,bunyamin-balci,Antalyaspor,
@@ -50,7 +50,7 @@ Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli
 2.1,1.71,3.77,30.23,79.15,0.0,0.0,2.18,36.84,0.16,3.19,1.98,5.17,60.73,Uğurcan Yazğılı,ugurcan-yazgili,,Konyaspor
 1.75,1.66,1.41,34.99,80.34,0.58,22.58,1.5,50.0,0.58,3.24,1.16,4.4,50.0,Mert Müldür,mert-muldur,,Fenerbahçe
 2.62,0.87,4.55,27.81,78.71,0.0,0.0,2.01,39.66,0.35,3.41,2.54,5.95,62.96,Ertuğrul Ersoy,ertugrul-ersoy,,Gaziantep FK
-1.27,1.31,5.12,44.45,89.12,0.0,0.0,2.51,50.0,0.1,1.75,2.3,4.05,65.19,Uroš Radaković,uros-radakovic,,MKE Ankaragücü
+1.27,1.31,5.12,44.45,89.18,0.0,0.0,2.51,50.34,0.1,1.75,2.3,4.05,64.84,Uroš Radaković,uros-radakovic,,MKE Ankaragücü
 2.93,0.63,1.74,36.57,83.2,0.42,31.58,3.41,55.68,0.56,4.25,0.56,4.81,55.2,Kamil Ahmet Çörekçi,kamil-ahmet-corekci,,Hatayspor
 0.42,0.79,6.21,29.69,83.0,0.0,0.0,3.5,45.41,0.04,0.58,1.37,1.96,48.45,Aaron Appindangoyé,aaron-appindangoye,,Sivasspor
 1.36,0.71,2.17,34.97,79.91,1.01,20.2,5.61,59.36,0.35,2.63,0.86,3.49,54.76,Jure Balkovec,jure-balkovec,,Alanyaspor
@@ -88,7 +88,7 @@ Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli
 1.83,1.24,5.04,50.14,86.15,0.0,0.0,3.86,44.57,0.0,2.32,1.68,4.01,55.86,Furkan Bayır,furkan-bayir,Alanyaspor,
 1.83,0.91,2.63,28.93,82.68,0.46,28.57,1.37,54.55,0.23,2.86,0.34,3.2,43.08,Anthony Uzodimma,uzodimma-anthony,Kayserispor,
 1.08,2.01,3.09,53.41,88.72,0.0,0.0,4.32,60.87,0.31,1.7,2.47,4.17,56.25,Samet Akaydin,samet-akaydin,Fenerbahçe,
-1.3,1.14,2.53,46.24,86.29,0.03,25.0,2.53,41.67,0.19,2.15,1.27,3.42,53.47,Nihad Mujakić,nihad-mujakic,MKE Ankaragücü,
+1.3,1.14,2.53,46.24,86.24,0.03,25.0,2.53,41.45,0.19,2.15,1.27,3.42,53.47,Nihad Mujakić,nihad-mujakic,MKE Ankaragücü,
 0.95,1.16,3.8,39.91,88.94,0.0,0.0,1.74,44.59,0.05,1.64,1.85,3.48,61.68,Rayyan Baniya,rayyan-baniya,Trabzonspor,
 1.52,0.54,4.78,51.96,85.2,0.0,0.0,4.57,52.5,0.33,2.17,1.74,3.91,54.55,Fatih Aksoy,fatih-aksoy,Alanyaspor,
 2.11,1.44,2.79,21.52,65.5,0.43,16.67,2.93,32.8,0.24,2.98,1.58,4.56,51.08,Soner Gönül,soner-gonul,Yılport Samsunspor,
@@ -116,7 +116,7 @@ Top Çalma,Pas Arası,Top Uzaklaştırma,İsabetli Pas,İsabetli Pas %,İsabetli
 1.78,0.85,2.12,41.91,84.18,0.25,21.43,1.78,42.0,0.93,3.73,1.1,4.83,53.77,Cemali Sertel,sertel-cemali,,Hatayspor
 1.7,1.22,2.07,26.76,77.74,0.49,21.05,1.09,29.03,1.34,3.89,1.46,5.35,51.16,İsmail Çokçalış,ismail-cokcalis,,Adana Demirspor
 2.17,0.69,2.34,24.47,80.34,0.52,16.67,1.39,53.33,0.43,3.12,0.52,3.65,46.67,Halil Ibrahim Pehlivan,halil-ibrahim-pehlivan,,Çaykur Rizespor
-4.06,0.97,2.13,32.87,80.38,0.1,4.17,1.26,31.71,0.58,4.93,1.45,6.38,53.23,Kâzımcan Karataş,kazimcan-karatas,,MKE Ankaragücü
+4.06,0.97,2.13,32.96,80.61,0.1,4.0,1.26,31.71,0.58,4.93,1.45,6.38,53.23,Kâzımcan Karataş,kazimcan-karatas,,MKE Ankaragücü
 1.1,1.33,1.64,35.48,83.43,0.94,34.29,2.04,42.62,0.23,1.72,1.02,2.74,47.95,Hasan Ali Kaldırım,hasan-ali-kaldirim,,Kayserispor
 1.24,1.89,3.25,25.25,74.13,0.41,23.33,1.42,32.88,0.24,2.66,1.06,3.73,53.85,Serkan Asan,serkan-asan,,Pendikspor
 1.02,1.21,4.38,41.27,84.54,0.09,100.0,1.21,24.53,0.0,1.49,3.63,5.12,63.22,Husniddin Alikulov,alikulov-husniddin,Çaykur Rizespor,
