@@ -18,7 +18,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 0.5,0.36,2.4,0.93,20.78,0.56,46.15,0.22,1.06,6.19,2.77,2.55,44.07,0.87,Mame Thiam,mame-thiam,Pendikspor,
 0.48,0.55,3.25,1.34,14.71,0.29,37.5,0.19,0.67,6.41,2.77,1.15,44.57,2.2,Serdar Dursun,serdar-dursun,Fenerbahçe,
 0.47,0.38,2.95,1.22,16.09,0.85,45.45,0.07,0.58,4.17,3.42,3.12,43.67,2.17,Adam Buksa,adam-buksa,Antalyaspor,
-0.47,0.39,2.7,1.28,17.5,0.81,57.14,0.14,0.54,3.71,2.23,1.69,39.73,0.95,Adolfo Gaich,adolfo-gaich,Çaykur Rizespor,
+0.47,0.39,2.7,1.28,17.5,0.81,57.14,0.14,0.54,3.71,2.23,1.69,40.0,0.95,Adolfo Gaich,adolfo-gaich,Çaykur Rizespor,
 0.47,0.84,3.75,0.94,12.5,0.94,66.67,0.47,2.34,13.59,3.28,0.47,25.0,0.94,Cédric Bakambu,cedric-bakambu,Galatasaray,
 0.45,0.45,1.91,0.9,23.53,0.79,58.33,0.11,0.68,3.6,1.91,3.94,44.83,1.24,Riad Bajić,riad-bajic,MKE Ankaragücü,
 0.43,0.37,3.24,1.22,13.33,2.85,52.67,0.29,1.19,6.45,6.09,2.3,40.59,1.4,Denis Drăguş,denis-dragus,Gaziantep FK,
@@ -56,7 +56,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 0.18,0.24,2.86,0.95,6.25,1.96,62.26,0.12,0.89,7.62,5.42,3.63,55.07,1.79,Jackson Muleka,jackson-muleka,Beşiktaş,
 0.18,0.22,1.93,0.53,9.09,0.82,63.64,0.18,0.64,4.51,3.69,1.4,40.85,1.58,Martin Minchev,minchev-martin,Çaykur Rizespor,
 0.16,0.31,2.56,0.7,6.06,0.78,47.62,0.16,0.7,5.36,1.94,2.33,37.67,0.78,Kevin Lasagna,kevin-lasagna,Fatih Karagümrük,
-0.15,0.15,1.64,0.9,9.09,1.87,46.3,0.07,1.2,6.5,3.14,0.37,31.97,0.37,Clinton N'Jie,clinton-njie,Sivasspor,
+0.15,0.15,1.64,0.9,9.09,1.87,46.3,0.07,1.2,6.5,3.14,0.37,31.76,0.37,Clinton N'Jie,clinton-njie,Sivasspor,
 0.14,0.28,1.79,0.55,7.69,1.79,52.0,0.0,0.55,3.44,4.95,4.26,47.52,2.34,Philippe Keny,philippe-keny,Başakşehir FK,
 0.13,0.19,1.25,0.44,10.0,0.81,50.0,0.13,0.75,6.2,4.19,1.31,37.93,1.63,Mendy Mamadou,mendy-mamadou,İstanbulspor,
 0.08,0.18,1.79,0.65,4.55,1.47,52.94,0.24,1.3,3.59,2.45,0.9,32.54,0.57,Julien Ngoy,julien-ngoy,,Kasımpaşa
@@ -67,7 +67,7 @@ Gol,Gol Beklentisi (xG),Toplam Şut,İsabetli Şut,Pozisyonu Gole Çevirme %,Ba�
 0.0,0.06,1.6,0.46,0.0,1.37,40.0,1.14,4.57,12.34,3.65,1.14,30.43,1.6,Ante Rebić,ante-rebic,,Beşiktaş
 0.0,0.11,2.01,0.54,0.0,1.0,39.39,0.31,1.54,6.95,4.63,0.23,45.99,2.7,Joelson Fernandes,joelson-fernandes,,Hatayspor
 0.0,0.03,0.87,0.44,0.0,0.44,25.0,0.0,0.87,14.85,4.81,1.31,43.75,2.62,Ozcan Sahan,sahan-ozcan,,İstanbulspor
-0.0,0.2,1.36,0.54,0.0,0.27,50.0,0.0,0.54,3.8,3.8,5.42,45.33,2.98,Bouly Junior Sambou,sambou-bouly-junior,,Konyaspor
+0.0,0.2,1.36,0.54,0.0,0.54,66.67,0.0,0.54,3.8,4.07,5.42,46.05,2.98,Bouly Junior Sambou,sambou-bouly-junior,,Konyaspor
 0.0,0.14,1.57,0.39,0.0,0.79,66.67,0.0,0.39,7.86,3.14,5.5,47.83,0.79,Aliou Badji,aliou-badji,,Gaziantep FK
 0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.75,1.5,4.5,2.25,3.0,26.92,2.25,Talha Sariarslan,talha-sariarslan,,Kayserispor
 0.0,0.18,1.71,0.57,0.0,0.95,55.56,0.19,0.57,7.23,4.38,1.71,35.96,3.42,Nélson Oliveira,nelson-oliveira,,Konyaspor
