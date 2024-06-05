@@ -2,11 +2,11 @@
   {
     "name": "ATV",
     "url": "https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/2481px-Atv_logo_2010.svg.png"
+    "logoUrl": "https://www.lyngsat.com/logo/tv/aa/atv_tr.png"
   },
   {
     "name": "NOW",
     "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=44-85UYBD3orvLNFqATKwg&e=1717615132",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/2560px-NOW_TV_%28Turkey%29_wordmark-red.svg.png"
+    "logoUrl": "https://www.lyngsat.com/logo/tv/nn/now-turkiye-us-tr.svg"
   }
 ]
